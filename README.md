@@ -1,2 +1,0 @@
-# tabuleiro-halma
-Trabalho
